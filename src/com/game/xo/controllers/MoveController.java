@@ -16,4 +16,5 @@ public class MoveController {
 
         field.setFigure(point, figure);
     }
+
 }
